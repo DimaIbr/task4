@@ -124,3 +124,5 @@ X_train, X_test, Y_train, Y_test = train_test_split_df(df)
 w, history = fit_linear(X_train, Y_train, a=optimal_a)
 plot_learning_curve(history, X_test, Y_test, optimal_a)
 plot_val_curve(history, X_test, Y_test, optimal_a)
+
+#test2
