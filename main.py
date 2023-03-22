@@ -125,4 +125,4 @@ w, history = fit_linear(X_train, Y_train, a=optimal_a)
 plot_learning_curve(history, X_test, Y_test, optimal_a)
 plot_val_curve(history, X_test, Y_test, optimal_a)
 
-#test2
+#test2213123123
