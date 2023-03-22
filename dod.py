@@ -13,4 +13,3 @@ df_train.head(2)
 
 plt.plot(df_train.len_text, df_train.num_of_words)
 
-#dasdadasdsadadssa
